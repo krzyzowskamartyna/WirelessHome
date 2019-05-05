@@ -1,8 +1,8 @@
-@import '@angular/material/prebuilt-themes/indigo-pink.css';
+@import '../../styles.scss';
 .nav {
   height: 10vh;
-  background: #333;
-  color: white;
+  background: $green;
+  color: $white;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
