@@ -1,0 +1,14 @@
+C:\Users\krzyz\Desktop\Web\AngularWithCore\WirelessHome\bin\Debug\netcoreapp2.1\WirelessHome.deps.json
+C:\Users\krzyz\Desktop\Web\AngularWithCore\WirelessHome\bin\Debug\netcoreapp2.1\WirelessHome.runtimeconfig.json
+C:\Users\krzyz\Desktop\Web\AngularWithCore\WirelessHome\bin\Debug\netcoreapp2.1\WirelessHome.runtimeconfig.dev.json
+C:\Users\krzyz\Desktop\Web\AngularWithCore\WirelessHome\bin\Debug\netcoreapp2.1\WirelessHome.dll
+C:\Users\krzyz\Desktop\Web\AngularWithCore\WirelessHome\bin\Debug\netcoreapp2.1\WirelessHome.pdb
+C:\Users\krzyz\Desktop\Web\AngularWithCore\WirelessHome\obj\Debug\netcoreapp2.1\WirelessHome.csprojAssemblyReference.cache
+C:\Users\krzyz\Desktop\Web\AngularWithCore\WirelessHome\obj\Debug\netcoreapp2.1\WirelessHome.csproj.CoreCompileInputs.cache
+C:\Users\krzyz\Desktop\Web\AngularWithCore\WirelessHome\obj\Debug\netcoreapp2.1\WirelessHome.RazorAssemblyInfo.cache
+C:\Users\krzyz\Desktop\Web\AngularWithCore\WirelessHome\obj\Debug\netcoreapp2.1\WirelessHome.RazorAssemblyInfo.cs
+C:\Users\krzyz\Desktop\Web\AngularWithCore\WirelessHome\obj\Debug\netcoreapp2.1\WirelessHome.AssemblyInfoInputs.cache
+C:\Users\krzyz\Desktop\Web\AngularWithCore\WirelessHome\obj\Debug\netcoreapp2.1\WirelessHome.AssemblyInfo.cs
+C:\Users\krzyz\Desktop\Web\AngularWithCore\WirelessHome\obj\Debug\netcoreapp2.1\WirelessHome.RazorTargetAssemblyInfo.cache
+C:\Users\krzyz\Desktop\Web\AngularWithCore\WirelessHome\obj\Debug\netcoreapp2.1\WirelessHome.dll
+C:\Users\krzyz\Desktop\Web\AngularWithCore\WirelessHome\obj\Debug\netcoreapp2.1\WirelessHome.pdb

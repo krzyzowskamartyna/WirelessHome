@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\node_modules\\@angular\\material",
+    "\\node_modules\\@angular\\material\\prebuilt-themes",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\control-page",
+    "\\src\\app\\header",
+    "\\src\\app\\main-page"
+  ],
+  "SelectedNode": "\\src\\app\\app-routing.module.ts",
+  "PreviewInSolutionExplorer": false
+}
